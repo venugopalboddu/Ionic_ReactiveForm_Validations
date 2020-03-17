@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Venugopal",
+      "email": "venugopal@gmail.com",
+      "dob": "1992-06-29",
+      "mobile": "8896547852",
+      "id": 2
+    },
+    {
+      "name": "Mahesh",
+      "email": "mahesh@gmail.com",
+      "dob": "1987-06-30",
+      "mobile": "9965478521",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
